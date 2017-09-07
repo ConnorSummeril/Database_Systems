@@ -40,6 +40,7 @@ INSERT INTO borders VALUES('Germany', 'Czechia');
 INSERT INTO borders VALUES('Germany', 'Austria');
 INSERT INTO borders VALUES('Germany', 'Switzerland');
 INSERT INTO borders VALUES('France', 'Belgium');
+INSERT INTO borders VALUES('France', 'Germany');
 INSERT INTO borders VALUES('France', 'Switzerland');
 INSERT INTO borders VALUES('France', 'Luxemburg');
 INSERT INTO borders VALUES('Switzerland', 'France');
@@ -68,11 +69,11 @@ SELECT adjacent_country FROM borders
     WHERE name = 'Germany';
 
 SELECT * FROM countries
-    WHERE population > 100000000;
+    WHERE population > 35000000;
 
-SELECT * FROM countries, borders
-    WHERE borders.name = 'Germany'
-    AND population > 100000000;
+SELECT countries.name, population FROM countries, borders
+    WHERE adjacent_country = 'Germany'
+    AND population > 35000000;
 
 DROP TABLE borders;
 DROP TABLE countries;
