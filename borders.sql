@@ -71,8 +71,9 @@ SELECT adjacent_country FROM borders
 SELECT * FROM countries
     WHERE population > 35000000;
 
-SELECT countries.name, population FROM countries, borders
+SELECT DISTINCT countries.name FROM countries, borders
     WHERE adjacent_country = 'Germany'
+    AND countries.name != 'Germany'
     AND population > 35000000;
 
 DROP TABLE borders;
