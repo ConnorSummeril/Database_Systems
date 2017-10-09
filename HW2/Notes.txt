@@ -1,0 +1,10 @@
+default port:
+5432
+Data directory:
+C:\PostgreSQL\data\pg96
+
+postgres user
+root user
+
+comand to run before psql
+cmd.exe /c chcp 1252

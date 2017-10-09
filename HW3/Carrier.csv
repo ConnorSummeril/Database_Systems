@@ -1,0 +1,1094 @@
+unique_carrier,airline_id,unique_carrier_entity,carrier_name,carrier_group,carrier_group_new,carrier_region
+5X,19917,6910,United Parcel Service,3,3,D
+5X,19917,6910,United Parcel Service,3,3,D
+5X,19917,6910,United Parcel Service,3,3,D
+5X,19917,6910,United Parcel Service,3,3,D
+5X,19917,6910,United Parcel Service,3,3,D
+5X,19917,6910,United Parcel Service,3,3,D
+5X,19917,6910,United Parcel Service,3,3,D
+5X,19917,6910,United Parcel Service,3,3,D
+5X,19917,6910,United Parcel Service,3,3,D
+5X,19917,6910,United Parcel Service,3,3,D
+5X,19917,6910,United Parcel Service,3,3,D
+5X,19917,6910,United Parcel Service,3,3,D
+5X,19917,6910,United Parcel Service,3,3,D
+EM,20263,6299,Empire Airlines Inc.,1,5,D
+EM,20263,6299,Empire Airlines Inc.,1,5,D
+EM,20263,6299,Empire Airlines Inc.,1,5,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+AMQ,20201,6055,Ameristar Air Cargo,1,4,D
+AMQ,20201,6055,Ameristar Air Cargo,1,4,D
+G4,20368,6035,Allegiant Air,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+GL,20402,6690,Miami Air International,2,2,D
+GL,20402,6690,Miami Air International,2,2,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,10877,United Air Lines Inc.,3,3,P
+27Q,21652,1194,"Jet Aviation Flight Services, Inc.",1,1,D
+27Q,21652,1194,"Jet Aviation Flight Services, Inc.",1,1,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+FX,20107,6200,Federal Express Corporation,3,3,D
+X9,20377,16736,Omni Air International LLC,2,2,I
+09Q,21161,1130,"Swift Air, LLC",1,1,D
+09Q,21161,1130,"Swift Air, LLC",1,1,D
+9S,20190,6841,Southern Air Inc.,2,2,D
+9S,20190,6841,Southern Air Inc.,2,2,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+27Q,21652,1194,"Jet Aviation Flight Services, Inc.",1,1,D
+27Q,21652,1194,"Jet Aviation Flight Services, Inc.",1,1,D
+27Q,21652,1194,"Jet Aviation Flight Services, Inc.",1,1,D
+04Q,21080,1126,Tradewind Aviation,1,6,D
+0WQ,21352,1150,Avjet Corporation,1,1,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+0WQ,21352,1150,Avjet Corporation,1,1,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+0WQ,21352,1150,Avjet Corporation,1,1,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+0WQ,21352,1150,Avjet Corporation,1,1,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+27Q,21652,1194,"Jet Aviation Flight Services, Inc.",1,1,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+LF,21635,1189,CFM Inc d/b/a Contour Airlines,1,6,D
+LF,21635,1189,CFM Inc d/b/a Contour Airlines,1,6,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+09Q,21161,1130,"Swift Air, LLC",1,1,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+09Q,21161,1130,"Swift Air, LLC",1,1,D
+09Q,21161,1130,"Swift Air, LLC",1,1,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+GL,20402,6690,Miami Air International,2,2,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+09Q,21161,1130,"Swift Air, LLC",1,1,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+KS,20225,6975,Peninsula Airways Inc.,1,5,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+MQ,20398,6820,Envoy Air,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+09Q,21161,1130,"Swift Air, LLC",1,1,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+MQ,20398,6820,Envoy Air,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+SY,20422,6795,Sun Country Airlines d/b/a MN Airlines,2,2,D
+EV,20366,6085,ExpressJet Airlines Inc.,3,3,D
+SY,20422,6795,Sun Country Airlines d/b/a MN Airlines,2,2,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+4B,21599,1177,Boutique Air,1,6,D
+SY,20422,6795,Sun Country Airlines d/b/a MN Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+SY,20422,6795,Sun Country Airlines d/b/a MN Airlines,2,2,D
+SY,20422,6795,Sun Country Airlines d/b/a MN Airlines,2,2,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+SY,20422,6795,Sun Country Airlines d/b/a MN Airlines,2,2,D
+KS,20225,6975,Peninsula Airways Inc.,1,5,D
+SY,20422,6795,Sun Country Airlines d/b/a MN Airlines,2,2,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+4B,21599,1177,Boutique Air,1,6,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+YX,20452,6003,Republic Airlines,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+AX,20237,6904,Trans States Airlines,1,5,D
+CP,21167,1131,Compass Airlines,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+YX,20452,6003,Republic Airlines,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+KS,20225,6975,Peninsula Airways Inc.,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+09Q,21161,1130,"Swift Air, LLC",1,1,D
+09Q,21161,1130,"Swift Air, LLC",1,1,D
+KS,20225,6975,Peninsula Airways Inc.,1,5,D
+9E,20363,7024,Endeavor Air Inc.,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+EV,20366,6085,ExpressJet Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+9E,20363,7024,Endeavor Air Inc.,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+MQ,20398,6820,Envoy Air,3,3,D
+4B,21599,1177,Boutique Air,1,6,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+KS,20225,6975,Peninsula Airways Inc.,1,5,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+G4,20368,6035,Allegiant Air,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+4B,21599,1177,Boutique Air,1,6,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+CP,21167,1131,Compass Airlines,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+4B,21599,1177,Boutique Air,1,6,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+4B,21599,1177,Boutique Air,1,6,D
+SY,20422,6795,Sun Country Airlines d/b/a MN Airlines,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+MQ,20398,6820,Envoy Air,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+4B,21599,1177,Boutique Air,1,6,D
+YX,20452,6003,Republic Airlines,2,2,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+4B,21599,1177,Boutique Air,1,6,D
+4B,21599,1177,Boutique Air,1,6,D
+AX,20237,6904,Trans States Airlines,1,5,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+4B,21599,1177,Boutique Air,1,6,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+AX,20237,6904,Trans States Airlines,1,5,D
+YX,20452,6003,Republic Airlines,2,2,D
+1AQ,21477,1158,Via Airlines d/b/a Charter Air Transport,1,6,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+KS,20225,6975,Peninsula Airways Inc.,1,5,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+KS,20225,6975,Peninsula Airways Inc.,1,5,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+1AQ,21477,1158,Via Airlines d/b/a Charter Air Transport,1,6,D
+AX,20237,6904,Trans States Airlines,1,5,D
+4B,21599,1177,Boutique Air,1,6,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+4B,21599,1177,Boutique Air,1,6,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+KS,20225,6975,Peninsula Airways Inc.,1,5,D
+KS,20225,6975,Peninsula Airways Inc.,1,5,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+4B,21599,1177,Boutique Air,1,6,D
+4B,21599,1177,Boutique Air,1,6,D
+4B,21599,1177,Boutique Air,1,6,D
+AX,20237,6904,Trans States Airlines,1,5,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+4B,21599,1177,Boutique Air,1,6,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+4B,21599,1177,Boutique Air,1,6,D
+AX,20237,6904,Trans States Airlines,1,5,D
+AX,20237,6904,Trans States Airlines,1,5,D
+4B,21599,1177,Boutique Air,1,6,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+KS,20225,6975,Peninsula Airways Inc.,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+KS,20225,6975,Peninsula Airways Inc.,1,5,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+ZK,20358,6932,Great Lakes Airlines,1,6,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+EV,20366,6085,ExpressJet Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+EV,20366,6085,ExpressJet Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+QX,19687,6580,Horizon Air,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G4,20368,6035,Allegiant Air,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+QX,19687,6580,Horizon Air,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G4,20368,6035,Allegiant Air,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+EV,20366,6085,ExpressJet Airlines Inc.,3,3,D
+YV,20378,6689,Mesa Airlines Inc.,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+YX,20452,6003,Republic Airlines,2,2,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+G4,20368,6035,Allegiant Air,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+EV,20366,6085,ExpressJet Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+YV,20378,6689,Mesa Airlines Inc.,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+G4,20368,6035,Allegiant Air,3,3,D
+G4,20368,6035,Allegiant Air,3,3,D
+G4,20368,6035,Allegiant Air,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+G4,20368,6035,Allegiant Air,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+G4,20368,6035,Allegiant Air,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+YX,20452,6003,Republic Airlines,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+YV,20378,6689,Mesa Airlines Inc.,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+G4,20368,6035,Allegiant Air,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G4,20368,6035,Allegiant Air,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+YV,20378,6689,Mesa Airlines Inc.,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AJQ,20354,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+EV,20366,6085,ExpressJet Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+AX,20237,6904,Trans States Airlines,1,5,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+AX,20237,6904,Trans States Airlines,1,5,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+AX,20237,6904,Trans States Airlines,1,5,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+SY,20422,6795,Sun Country Airlines d/b/a MN Airlines,2,2,D
+YX,20452,6003,Republic Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+SY,20422,6795,Sun Country Airlines d/b/a MN Airlines,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+YX,20452,6003,Republic Airlines,2,2,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+YV,20378,6689,Mesa Airlines Inc.,2,2,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+MQ,20398,6820,Envoy Air,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+MQ,20398,6820,Envoy Air,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+YV,20378,6689,Mesa Airlines Inc.,2,2,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+G7,20500,7041,GoJet Airlines LLC d/b/a United Express,2,2,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+B6,20409,6673,JetBlue Airways,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+B6,20409,6673,JetBlue Airways,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+B6,20409,6673,JetBlue Airways,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+B6,20409,6673,JetBlue Airways,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+NK,20416,6830,Spirit Air Lines,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+VX,21171,1006,Virgin America,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+VX,21171,1006,Virgin America,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+OO,20304,6700,SkyWest Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+F9,20436,6460,Frontier Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AS,19930,6031,Alaska Airlines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+AS,19930,6031,Alaska Airlines Inc.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+DL,19790,1260,Delta Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+WN,19393,6725,Southwest Airlines Co.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+AA,19805,0A050,American Airlines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
+UA,19977,0A875,United Air Lines Inc.,3,3,D
