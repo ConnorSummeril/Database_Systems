@@ -1,1 +1,1094 @@
-
+market_id,name,abbreviation,world_area_code
+30325,"Denver, CO",DEN,82
+30559,"Seattle, WA",BFI,93
+30620,"Billings, MT",BIL,84
+32575,"Burbank, CA",BUR,91
+32211,"Las Vegas, NV",LAS,85
+32575,"Ontario, CA",ONT,91
+34570,"Reno, NV",RNO,85
+33044,"Louisville, KY",SDF,52
+34614,"Salt Lake City, UT",SLC,87
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30285,"Durango, CO",DRO,82
+30140,"Albuquerque, NM",ABQ,86
+30285,"Durango, CO",DRO,82
+32544,"CONCORD, NC",USA,36
+30325,"Denver, CO",DEN,82
+31503,"Eagle, CO",EGE,82
+30325,"Denver, CO",DEN,82
+31871,"Greer, SC",GSP,37
+30189,"Colorado Springs, CO",COS,82
+33570,"San Diego, CA",SAN,91
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31295,"Detroit, MI",YIP,43
+30325,"Denver, CO",DEN,82
+32448,"Jackson/Vicksburg, MS",JAN,53
+32467,"Miami, FL",MIA,33
+34576,"Rochester, NY",ROC,22
+30325,"Denver, CO",DEN,82
+32457,"San Francisco, CA",SFO,91
+30977,"Chicago, IL",ORD,41
+30325,"Denver, CO",APA,82
+30285,"Durango, CO",DRO,82
+30325,"Denver, CO",DEN,82
+31921,"Grand Junction, CO",GJT,82
+33244,"Memphis, TN",MEM,54
+34699,"Hayden, CO",HDN,82
+30194,"Dallas/Fort Worth, TX",AFW,74
+30620,"Billings, MT",BIL,84
+30194,"Dallas/Fort Worth, TX",DFW,74
+30615,"El Paso, TX",ELP,74
+32337,"Indianapolis, IN",IND,42
+33198,"Kansas City, MO",MCI,64
+33244,"Memphis, TN",MEM,54
+33495,"New Orleans, LA",MSY,72
+32457,"Oakland, CA",OAK,91
+34614,"Salt Lake City, UT",SLC,87
+30436,"Tucson, AZ",TUS,81
+30140,"Albuquerque, NM",ABQ,86
+31921,"Grand Junction, CO",GJT,82
+30285,"Durango, CO",DRO,82
+30189,"Colorado Springs, CO",COS,82
+31638,"Fresno, CA",FAT,91
+33244,"Memphis, TN",MEM,54
+34614,"Salt Lake City, UT",SLC,87
+31122,"Casper, WY",CPR,88
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+31921,"Grand Junction, CO",GJT,82
+30325,"Denver, CO",DEN,82
+32211,"Las Vegas, NV",LAS,85
+34275,"Pontiac, MI",PTK,43
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33105,"Cincinnati, OH",CVG,52
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30423,"Austin, TX",AUS,74
+32457,"San Jose, CA",SJC,91
+30325,"Denver, CO",APA,82
+30325,"Denver, CO",APA,82
+30372,"Aspen, CO",ASE,82
+31714,"Fort Myers, FL",RSW,33
+33570,"San Diego, CA",SAN,91
+30279,"Amarillo, TX",AMA,74
+32575,"Burbank, CA",BUR,91
+31703,"Islip, NY",ISP,22
+32575,"Burbank, CA",BUR,91
+30325,"Denver, CO",DEN,82
+31503,"Eagle, CO",EGE,82
+30325,"Denver, CO",DEN,82
+30372,"Aspen, CO",ASE,82
+30397,"Atlanta, GA",ATL,34
+30325,"Denver, CO",DEN,82
+30928,"Wichita, KS",ICT,62
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31267,"Dayton, OH",DAY,44
+31233,"Cheyenne, WY",CYS,88
+35177,"Telluride, CO",TEX,82
+30325,"Denver, CO",DEN,82
+33342,"Milwaukee, WI",MKE,45
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31921,"Grand Junction, CO",GJT,82
+33158,"Midland/Odessa, TX",MAF,74
+31454,"Orlando, FL",MCO,33
+32896,"Lubbock, TX",LBB,74
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32457,"Oakland, CA",OAK,91
+31123,"St. Louis, MO",STL,64
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+34027,"West Palm Beach/Palm Beach, FL",PBI,33
+30721,"Providence, RI",PVD,15
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30928,"Wichita, KS",ICT,62
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34081,"Page, AZ",PGA,81
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31503,"Eagle, CO",EGE,82
+30325,"Denver, CO",DEN,82
+30409,"Watertown, SD",ATY,67
+34237,"Prescott, AZ",PRC,81
+31122,"Casper, WY",CPR,88
+30325,"Denver, CO",DEN,82
+31315,"Dickinson, ND",DIK,66
+33502,"Montrose/Delta, CO",MTJ,82
+30285,"Durango, CO",DRO,82
+34614,"Salt Lake City, UT",SLC,87
+31097,"Cody, WY",COD,88
+30436,"Tucson, AZ",TUS,81
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30194,"Dallas/Fort Worth, TX",DFW,74
+34819,"San Juan, PR",SJU,3
+33502,"Montrose/Delta, CO",MTJ,82
+32012,"Gunnison, CO",GUC,82
+30590,"Bullhead City, AZ",IFP,81
+34614,"Salt Lake City, UT",SLC,87
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34057,"Portland, OR",PDX,92
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32600,"Little Rock, AR",LIT,71
+30559,"Seattle, WA",SEA,93
+31423,"Des Moines, IA",DSM,61
+30325,"Denver, CO",DEN,82
+30466,"Phoenix, AZ",PHX,81
+30397,"Atlanta, GA",ATL,34
+32457,"Oakland, CA",OAK,91
+30792,"Buffalo, NY",BUF,22
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30977,"Chicago, IL",ORD,41
+30325,"Denver, CO",DEN,82
+31703,"New York, NY",LGA,22
+32575,"Santa Ana, CA",SNA,91
+32441,"Jackson, WY",JAC,88
+30423,"Austin, TX",AUS,74
+34653,"Tulsa, OK",TUL,73
+30647,"Cleveland, OH",CLE,44
+35041,"Sun Valley/Hailey/Ketchum, ID",SUN,83
+32389,"Williston, ND",ISN,66
+30325,"Denver, CO",DEN,82
+33570,"San Diego, CA",SAN,91
+30721,"Boston, MA",BOS,13
+31481,"Panama City, FL",ECP,33
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34819,"San Juan, PR",SJU,3
+30325,"Denver, CO",DEN,82
+30140,"Albuquerque, NM",ABQ,86
+30325,"Denver, CO",DEN,82
+31921,"Grand Junction, CO",GJT,82
+31719,"Fort Collins/Loveland, CO",FNL,82
+30590,"Bullhead City, AZ",IFP,81
+30615,"El Paso, TX",ELP,74
+30620,"Billings, MT",BIL,84
+32575,"Los Angeles, CA",LAX,91
+30590,"Bullhead City, AZ",IFP,81
+31283,"Dodge City, KS",DDC,62
+34288,"Pueblo, CO",PUB,82
+30325,"Denver, CO",DEN,82
+30272,"Alamosa, CO",ALS,82
+30792,"Buffalo, NY",BUF,22
+32896,"Lubbock, TX",LBB,74
+30279,"Amarillo, TX",AMA,74
+30325,"Denver, CO",DEN,82
+31834,"Fayetteville, AR",XNA,71
+30325,"Denver, CO",DEN,82
+34783,"Springfield, MO",SGF,64
+30325,"Denver, CO",DEN,82
+32575,"Los Angeles, CA",LAX,91
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30476,"Shreveport, LA",SHV,72
+31650,"Minneapolis, MN",MSP,63
+31986,"Grand Rapids, MI",GRR,43
+30325,"Denver, CO",DEN,82
+33502,"Montrose/Delta, CO",MTJ,82
+30325,"Denver, CO",DEN,82
+31563,"Wendover, UT",ENV,87
+31921,"Grand Junction, CO",GJT,82
+30325,"Denver, CO",DEN,82
+33105,"Cincinnati, OH",CVG,52
+30325,"Denver, CO",DEN,82
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+30436,"Tucson, AZ",TUS,81
+32575,"Ontario, CA",ONT,91
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34057,"Portland, OR",PDX,92
+30977,"Chicago, IL",ORD,41
+30221,"Alliance, NE",AIA,65
+30325,"Denver, CO",DEN,82
+32902,"Liberal, KS",LBL,62
+30325,"Denver, CO",DEN,82
+35570,"Victorville, CA",VCV,91
+30325,"Denver, CO",DEN,82
+30285,"Durango, CO",DRO,82
+34524,"Richmond, VA",RIC,38
+30325,"Denver, CO",DEN,82
+32575,"Los Angeles, CA",LAX,91
+30325,"Denver, CO",DEN,82
+31921,"Grand Junction, CO",GJT,82
+30615,"El Paso, TX",ELP,74
+30325,"Denver, CO",DEN,82
+30928,"Wichita, KS",ICT,62
+30950,"Cortez, CO",CEZ,82
+30325,"Denver, CO",DEN,82
+31884,"Spokane, WA",GEG,93
+33964,"North Bend/Coos Bay, OR",OTH,92
+33044,"Louisville, KY",SDF,52
+30325,"Denver, CO",DEN,82
+31267,"Dayton, OH",DAY,44
+30466,"Phoenix, AZ",PHX,81
+30590,"Bullhead City, AZ",IFP,81
+33244,"Memphis, TN",MEM,54
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30849,"Bozeman, MT",BZN,84
+31650,"Minneapolis, MN",MSP,63
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31003,"Cedar Rapids/Iowa City, IA",CID,61
+30325,"Denver, CO",DEN,82
+33502,"Montrose/Delta, CO",MTJ,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34288,"Pueblo, CO",PUB,82
+30325,"Denver, CO",DEN,82
+31714,"Fort Myers, FL",RSW,33
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31703,"New York, NY",LGA,22
+30325,"Denver, CO",DEN,82
+31092,"Moab, UT",CNY,87
+33200,"McCook, NE",MCK,65
+31775,"Sioux Falls, SD",FSD,67
+30194,"Dallas/Fort Worth, TX",DFW,74
+33214,"San Antonio, TX",SAT,74
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30140,"Albuquerque, NM",ABQ,86
+31986,"Grand Rapids, MI",GRR,43
+30325,"Denver, CO",DEN,82
+31650,"Minneapolis, MN",MSP,63
+30325,"Denver, CO",DEN,82
+31003,"Cedar Rapids/Iowa City, IA",CID,61
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34699,"Hayden, CO",HDN,82
+30397,"Atlanta, GA",ATL,34
+30325,"Denver, CO",DEN,82
+32337,"Indianapolis, IN",IND,42
+34321,"Portland, ME",PWM,12
+30325,"Denver, CO",DEN,82
+35356,"Trenton, NJ",TTN,21
+31711,"Farmington, NM",FMN,86
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30558,"Scottsbluff, NE",BFF,65
+33502,"Montrose/Delta, CO",MTJ,82
+33214,"San Antonio, TX",SAT,74
+30643,"Branson, MO",BKG,64
+30325,"Denver, CO",DEN,82
+35582,"Vernal, UT",VEL,87
+30977,"Chicago, IL",ORD,41
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30647,"Cleveland, OH",CLE,44
+32012,"Gunnison, CO",GUC,82
+34534,"Riverton/Lander, WY",RIW,88
+33244,"Memphis, TN",MEM,54
+30325,"Denver, CO",DEN,82
+33044,"Louisville, KY",SDF,52
+30194,"Dallas/Fort Worth, TX",DFW,74
+34653,"Tulsa, OK",TUL,73
+30325,"Denver, CO",DEN,82
+31057,"Charlotte, NC",CLT,36
+31003,"Cedar Rapids/Iowa City, IA",CID,61
+30325,"Denver, CO",DEN,82
+30397,"Atlanta, GA",ATL,34
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32899,"North Platte, NE",LBF,65
+30721,"Manchester, NH",MHT,14
+32206,"Harlingen/San Benito, TX",HRL,74
+30325,"Denver, CO",DEN,82
+33316,"Omaha, NE",OMA,65
+35412,"Knoxville, TN",TYS,54
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34524,"Richmond, VA",RIC,38
+30325,"Denver, CO",DEN,82
+31986,"Grand Rapids, MI",GRR,43
+30325,"Denver, CO",DEN,82
+30272,"Alamosa, CO",ALS,82
+30925,"Chadron, NE",CDR,65
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30647,"Cleveland, OH",CLE,44
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31447,"Devils Lake, ND",DVL,66
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30950,"Cortez, CO",CEZ,82
+31834,"Fayetteville, AR",XNA,71
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33105,"Cincinnati, OH",CVG,52
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33367,"Moline, IL",MLI,41
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31895,"Great Falls, MT",GTF,84
+32982,"Lihue, HI",LIH,2
+33367,"Moline, IL",MLI,41
+30325,"Denver, CO",DEN,82
+31468,"Kearney, NE",EAR,65
+30852,"Washington, DC",DCA,38
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+33367,"Moline, IL",MLI,41
+31066,"Columbus, OH",CMH,44
+32457,"San Francisco, CA",SFO,91
+32575,"Burbank, CA",BUR,91
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30436,"Tucson, AZ",TUS,81
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30189,"Colorado Springs, CO",COS,82
+33214,"San Antonio, TX",SAT,74
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34877,"Salina, KS",SLN,62
+30325,"Denver, CO",DEN,82
+32255,"Hays, KS",HYS,62
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34614,"Salt Lake City, UT",SLC,87
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30189,"Colorado Springs, CO",COS,82
+31453,"Houston, TX",IAH,74
+32457,"San Francisco, CA",SFO,91
+34236,"San Luis Obispo, CA",SBP,91
+30325,"Denver, CO",DEN,82
+31453,"Houston, TX",IAH,74
+30325,"Denver, CO",DEN,82
+31648,"Kalispell, MT",FCA,84
+33667,"Norfolk, VA",ORF,38
+30325,"Denver, CO",DEN,82
+30559,"Seattle, WA",SEA,93
+30372,"Aspen, CO",ASE,82
+30559,"Seattle, WA",SEA,93
+31921,"Grand Junction, CO",GJT,82
+32389,"Williston, ND",ISN,66
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+32211,"Las Vegas, NV",LAS,85
+31123,"St. Louis, MO",STL,64
+30476,"Shreveport, LA",SHV,72
+31637,"Fargo, ND",FAR,66
+35412,"Knoxville, TN",TYS,54
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33728,"Pensacola, FL",PNS,33
+33502,"Montrose/Delta, CO",MTJ,82
+30466,"Phoenix, AZ",PHX,81
+31503,"Eagle, CO",EGE,82
+30372,"Aspen, CO",ASE,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34653,"Tulsa, OK",TUL,73
+31921,"Grand Junction, CO",GJT,82
+30325,"Denver, CO",DEN,82
+32888,"Laramie, WY",LAR,88
+30325,"Denver, CO",DEN,82
+30194,"Dallas/Fort Worth, TX",DFW,74
+31097,"Cody, WY",COD,88
+30325,"Denver, CO",DEN,82
+30977,"Chicago, IL",ORD,41
+32575,"Long Beach, CA",LGB,91
+30325,"Denver, CO",DEN,82
+33502,"Montrose/Delta, CO",MTJ,82
+30325,"Denver, CO",DEN,82
+33502,"Montrose/Delta, CO",MTJ,82
+30928,"Wichita, KS",ICT,62
+30255,"Huntsville, AL",HSV,51
+30325,"Denver, CO",DEN,82
+32156,"Helena, MT",HLN,84
+33198,"Kansas City, MO",MCI,64
+30325,"Denver, CO",DEN,82
+34699,"Hayden, CO",HDN,82
+30466,"Phoenix, AZ",AZA,81
+32575,"Los Angeles, CA",LAX,91
+32211,"Las Vegas, NV",LAS,85
+30325,"Denver, CO",DEN,82
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+33495,"New Orleans, LA",MSY,72
+33044,"Louisville, KY",SDF,52
+33158,"Midland/Odessa, TX",MAF,74
+30647,"Cleveland, OH",CLE,44
+30189,"Colorado Springs, CO",COS,82
+34614,"Salt Lake City, UT",SLC,87
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33198,"Kansas City, MO",MCI,64
+30325,"Denver, CO",DEN,82
+31453,"Houston, TX",IAH,74
+33029,"Lincoln, NE",LNK,65
+30627,"Bismarck/Mandan, ND",BIS,66
+32575,"Los Angeles, CA",LAX,91
+33044,"Louisville, KY",SDF,52
+30140,"Albuquerque, NM",ABQ,86
+33105,"Cincinnati, OH",CVG,52
+30189,"Colorado Springs, CO",COS,82
+34783,"Springfield, MO",SGF,64
+32519,"Jamestown, ND",JMS,66
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32600,"Little Rock, AR",LIT,71
+34262,"Palm Springs, CA",PSP,91
+30325,"Denver, CO",DEN,82
+33316,"Omaha, NE",OMA,65
+34457,"Rapid City, SD",RAP,67
+30325,"Denver, CO",DEN,82
+30615,"El Paso, TX",ELP,74
+30372,"Aspen, CO",ASE,82
+30325,"Denver, CO",DEN,82
+34543,"Rock Springs, WY",RKS,88
+30325,"Denver, CO",DEN,82
+33158,"Midland/Odessa, TX",MAF,74
+30325,"Denver, CO",DEN,82
+30599,"Birmingham, AL",BHM,51
+30849,"Bozeman, MT",BZN,84
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31066,"Columbus, OH",CMH,44
+30325,"Denver, CO",DEN,82
+31603,"Eugene, OR",EUG,92
+30372,"Aspen, CO",ASE,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31834,"Fayetteville, AR",XNA,71
+30423,"Austin, TX",AUS,74
+30325,"Denver, CO",DEN,82
+33851,"Oklahoma City, OK",OKC,73
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30140,"Albuquerque, NM",ABQ,86
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30194,"Dallas/Fort Worth, TX",DFW,74
+30194,"Dallas/Fort Worth, TX",DFW,74
+33486,"Missoula, MT",MSO,84
+30325,"Denver, CO",DEN,82
+31995,"Greensboro/High Point, NC",GSO,36
+31315,"Dickinson, ND",DIK,66
+32575,"Los Angeles, CA",LAX,91
+34689,"Santa Barbara, CA",SBA,91
+30325,"Denver, CO",DEN,82
+30466,"Phoenix, AZ",PHX,81
+33198,"Kansas City, MO",MCI,64
+33105,"Cincinnati, OH",CVG,52
+30189,"Colorado Springs, CO",COS,82
+31453,"Houston, TX",IAH,74
+30325,"Denver, CO",DEN,82
+30849,"Bozeman, MT",BZN,84
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30693,"Nashville, TN",BNA,54
+30325,"Denver, CO",DEN,82
+33851,"Oklahoma City, OK",OKC,73
+33502,"Montrose/Delta, CO",MTJ,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33105,"Cincinnati, OH",CVG,52
+30325,"Denver, CO",DEN,82
+30561,"Bakersfield, CA",BFL,91
+34120,"Pierre, SD",PIR,67
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30599,"Birmingham, AL",BHM,51
+34689,"Santa Barbara, CA",SBA,91
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33264,"Medford, OR",MFR,92
+30325,"Denver, CO",DEN,82
+30279,"Amarillo, TX",AMA,74
+30620,"Billings, MT",BIL,84
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33304,"Minot, ND",MOT,66
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30693,"Nashville, TN",BNA,54
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31453,"Houston, TX",IAH,74
+30977,"Chicago, IL",ORD,41
+32389,"Williston, ND",ISN,66
+33316,"Omaha, NE",OMA,65
+30325,"Denver, CO",DEN,82
+34783,"Springfield, MO",SGF,64
+31865,"Gillette, WY",GCC,88
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30189,"Colorado Springs, CO",COS,82
+30977,"Chicago, IL",ORD,41
+30325,"Denver, CO",DEN,82
+32896,"Lubbock, TX",LBB,74
+30325,"Denver, CO",DEN,82
+35412,"Knoxville, TN",TYS,54
+30285,"Durango, CO",DRO,82
+34653,"Tulsa, OK",TUL,73
+31122,"Casper, WY",CPR,88
+30325,"Denver, CO",DEN,82
+33486,"Missoula, MT",MSO,84
+33486,"Missoula, MT",MSO,84
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33105,"Cincinnati, OH",CVG,52
+30189,"Colorado Springs, CO",COS,82
+34252,"Pasco/Kennewick/Richland, WA",PSC,93
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+30194,"Dallas/Fort Worth, TX",DFW,74
+33029,"Lincoln, NE",LNK,65
+30140,"Albuquerque, NM",ABQ,86
+30325,"Denver, CO",DEN,82
+32600,"Little Rock, AR",LIT,71
+30325,"Denver, CO",DEN,82
+30928,"Wichita, KS",ICT,62
+30325,"Denver, CO",DEN,82
+34674,"Santa Fe, NM",SAF,86
+33486,"Missoula, MT",MSO,84
+31921,"Grand Junction, CO",GJT,82
+34262,"Palm Springs, CA",PSP,91
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31003,"Cedar Rapids/Iowa City, IA",CID,61
+30325,"Denver, CO",DEN,82
+34614,"Salt Lake City, UT",SLC,87
+30325,"Denver, CO",DEN,82
+34524,"Richmond, VA",RIC,38
+30397,"Atlanta, GA",ATL,34
+30325,"Denver, CO",DEN,82
+32575,"Los Angeles, CA",LAX,91
+31123,"St. Louis, MO",STL,64
+34794,"St. George, UT",SGU,87
+34614,"Salt Lake City, UT",SLC,87
+30372,"Aspen, CO",ASE,82
+33198,"Kansas City, MO",MCI,64
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31123,"St. Louis, MO",STL,64
+33264,"Medford, OR",MFR,92
+33485,"Madison, WI",MSN,45
+30325,"Denver, CO",DEN,82
+32441,"Jackson, WY",JAC,88
+31637,"Fargo, ND",FAR,66
+30325,"Denver, CO",DEN,82
+30466,"Phoenix, AZ",PHX,81
+30325,"Denver, CO",DEN,82
+31123,"St. Louis, MO",STL,64
+30372,"Aspen, CO",ASE,82
+30627,"Bismarck/Mandan, ND",BIS,66
+31895,"Great Falls, MT",GTF,84
+30325,"Denver, CO",DEN,82
+34489,"Bend/Redmond, OR",RDM,92
+30325,"Denver, CO",DEN,82
+31454,"Orlando, FL",MCO,33
+33851,"Oklahoma City, OK",OKC,73
+30189,"Colorado Springs, CO",COS,82
+31775,"Sioux Falls, SD",FSD,67
+34457,"Rapid City, SD",RAP,67
+31921,"Grand Junction, CO",GJT,82
+31122,"Casper, WY",CPR,88
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32575,"Burbank, CA",BUR,91
+32457,"San Jose, CA",SJC,91
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+30189,"Colorado Springs, CO",COS,82
+33502,"Montrose/Delta, CO",MTJ,82
+30423,"Austin, TX",AUS,74
+30325,"Denver, CO",DEN,82
+31603,"Eugene, OR",EUG,92
+30189,"Colorado Springs, CO",COS,82
+30466,"Phoenix, AZ",PHX,81
+31921,"Grand Junction, CO",GJT,82
+32211,"Las Vegas, NV",LAS,85
+31066,"Columbus, OH",CMH,44
+30325,"Denver, CO",DEN,82
+31267,"Dayton, OH",DAY,44
+30325,"Denver, CO",DEN,82
+31423,"Des Moines, IA",DSM,61
+30627,"Bismarck/Mandan, ND",BIS,66
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31503,"Eagle, CO",EGE,82
+30325,"Denver, CO",DEN,82
+30285,"Durango, CO",DRO,82
+33244,"Memphis, TN",MEM,54
+30189,"Colorado Springs, CO",COS,82
+30615,"El Paso, TX",ELP,74
+31650,"Minneapolis, MN",MSP,63
+32337,"Indianapolis, IN",IND,42
+30977,"Chicago, IL",ORD,41
+30325,"Denver, CO",DEN,82
+30466,"Phoenix, AZ",PHX,81
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33044,"Louisville, KY",SDF,52
+30529,"Hartford, CT",BDL,11
+32280,"Idaho Falls, ID",IDA,83
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30713,"Boise, ID",BOI,83
+32758,"Kona, HI",KOA,2
+30325,"Denver, CO",DEN,82
+30529,"Hartford, CT",BDL,11
+33851,"Oklahoma City, OK",OKC,73
+31986,"Grand Rapids, MI",GRR,43
+31775,"Sioux Falls, SD",FSD,67
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33830,"Kahului, HI",OGG,2
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33192,"Sacramento, CA",SMF,91
+33198,"Kansas City, MO",MCI,64
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31921,"Grand Junction, CO",GJT,82
+30994,"Charleston, SC",CHS,37
+30325,"Denver, CO",DEN,82
+34614,"Salt Lake City, UT",SLC,87
+30194,"Dallas/Fort Worth, TX",DFW,74
+30325,"Denver, CO",DEN,82
+34457,"Rapid City, SD",RAP,67
+30436,"Tucson, AZ",TUS,81
+30325,"Denver, CO",DEN,82
+30194,"Dallas/Fort Worth, TX",DFW,74
+30325,"Denver, CO",DEN,82
+34653,"Tulsa, OK",TUL,73
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30257,"Albany, NY",ALB,22
+33214,"San Antonio, TX",SAT,74
+30325,"Denver, CO",DEN,82
+33195,"Tampa, FL",TPA,33
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32337,"Indianapolis, IN",IND,42
+31057,"Charlotte, NC",CLT,36
+34492,"Raleigh/Durham, NC",RDU,36
+30325,"Denver, CO",DEN,82
+33570,"San Diego, CA",SAN,91
+30325,"Denver, CO",DEN,82
+30852,"Washington, DC",IAD,38
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30559,"Seattle, WA",SEA,93
+30325,"Denver, CO",DEN,82
+31136,"Jacksonville, FL",JAX,33
+31453,"Houston, TX",IAH,74
+31003,"Cedar Rapids/Iowa City, IA",CID,61
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+30397,"Atlanta, GA",ATL,34
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31423,"Des Moines, IA",DSM,61
+31066,"Columbus, OH",CMH,44
+31650,"Minneapolis, MN",MSP,63
+30325,"Denver, CO",DEN,82
+31295,"Detroit, MI",DTW,43
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30198,"Pittsburgh, PA",PIT,23
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+30647,"Cleveland, OH",CLE,44
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33316,"Omaha, NE",OMA,65
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32467,"Miami, FL",MIA,33
+31986,"Grand Rapids, MI",GRR,43
+30852,"Washington, DC",DCA,38
+30325,"Denver, CO",DEN,82
+32337,"Indianapolis, IN",IND,42
+30325,"Denver, CO",DEN,82
+30140,"Albuquerque, NM",ABQ,86
+30194,"Dallas/Fort Worth, TX",DFW,74
+30325,"Denver, CO",DEN,82
+33342,"Milwaukee, WI",MKE,45
+30325,"Denver, CO",DEN,82
+30194,"Dallas/Fort Worth, TX",DFW,74
+30325,"Denver, CO",DEN,82
+31703,"New York, NY",LGA,22
+33495,"New Orleans, LA",MSY,72
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30693,"Nashville, TN",BNA,54
+31921,"Grand Junction, CO",GJT,82
+30325,"Denver, CO",DEN,82
+31648,"Kalispell, MT",FCA,84
+33198,"Kansas City, MO",MCI,64
+31775,"Sioux Falls, SD",FSD,67
+31295,"Detroit, MI",DTW,43
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30285,"Durango, CO",DRO,82
+30325,"Denver, CO",DEN,82
+30928,"Wichita, KS",ICT,62
+30325,"Denver, CO",DEN,82
+31638,"Fresno, CA",FAT,91
+30423,"Austin, TX",AUS,74
+30325,"Denver, CO",DEN,82
+32467,"Fort Lauderdale, FL",FLL,33
+30325,"Denver, CO",DEN,82
+30647,"Cleveland, OH",CLE,44
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30285,"Durango, CO",DRO,82
+30325,"Denver, CO",DEN,82
+33495,"New Orleans, LA",MSY,72
+30436,"Tucson, AZ",TUS,81
+33244,"Memphis, TN",MEM,54
+30325,"Denver, CO",DEN,82
+32575,"Ontario, CA",ONT,91
+30325,"Denver, CO",DEN,82
+32467,"Fort Lauderdale, FL",FLL,33
+31057,"Charlotte, NC",CLT,36
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34570,"Reno, NV",RNO,85
+31703,"New York, NY",JFK,22
+33485,"Madison, WI",MSN,45
+32441,"Jackson, WY",JAC,88
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34653,"Tulsa, OK",TUL,73
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30559,"Seattle, WA",SEA,93
+30325,"Denver, CO",DEN,82
+32575,"Ontario, CA",ONT,91
+30325,"Denver, CO",DEN,82
+30299,"Anchorage, AK",ANC,1
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30721,"Boston, MA",BOS,13
+31884,"Spokane, WA",GEG,93
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33342,"Milwaukee, WI",MKE,45
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33495,"New Orleans, LA",MSY,72
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31884,"Spokane, WA",GEG,93
+30198,"Pittsburgh, PA",PIT,23
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32575,"Los Angeles, CA",LAX,91
+34100,"Philadelphia, PA",PHL,23
+34492,"Raleigh/Durham, NC",RDU,36
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31295,"Detroit, MI",DTW,43
+30325,"Denver, CO",DEN,82
+31423,"Des Moines, IA",DSM,61
+32467,"Fort Lauderdale, FL",FLL,33
+31703,"New York, NY",LGA,22
+30325,"Denver, CO",DEN,82
+31295,"Detroit, MI",DTW,43
+30647,"Cleveland, OH",CLE,44
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30466,"Phoenix, AZ",PHX,81
+32457,"San Jose, CA",SJC,91
+31650,"Minneapolis, MN",MSP,63
+34492,"Raleigh/Durham, NC",RDU,36
+30325,"Denver, CO",DEN,82
+32575,"Santa Ana, CA",SNA,91
+30713,"Boise, ID",BOI,83
+33214,"San Antonio, TX",SAT,74
+30713,"Boise, ID",BOI,83
+30325,"Denver, CO",DEN,82
+30620,"Billings, MT",BIL,84
+31066,"Columbus, OH",CMH,44
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30397,"Atlanta, GA",ATL,34
+30325,"Denver, CO",DEN,82
+31703,"New York, NY",LGA,22
+30325,"Denver, CO",DEN,82
+30198,"Pittsburgh, PA",PIT,23
+33105,"Cincinnati, OH",CVG,52
+30977,"Chicago, IL",ORD,41
+30397,"Atlanta, GA",ATL,34
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30423,"Austin, TX",AUS,74
+30325,"Denver, CO",DEN,82
+30852,"Baltimore, MD",BWI,35
+32211,"Las Vegas, NV",LAS,85
+30325,"Denver, CO",DEN,82
+34100,"Philadelphia, PA",PHL,23
+30325,"Denver, CO",DEN,82
+30372,"Aspen, CO",ASE,82
+34100,"Philadelphia, PA",PHL,23
+32575,"Los Angeles, CA",LAX,91
+33195,"Tampa, FL",TPA,33
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30189,"Colorado Springs, CO",COS,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30140,"Albuquerque, NM",ABQ,86
+30977,"Chicago, IL",ORD,41
+32575,"Los Angeles, CA",LAX,91
+34570,"Reno, NV",RNO,85
+31123,"St. Louis, MO",STL,64
+32134,"Honolulu, HI",HNL,2
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32457,"San Francisco, CA",SFO,91
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33851,"Oklahoma City, OK",OKC,73
+31703,"Newark, NJ",EWR,21
+32457,"San Francisco, CA",SFO,91
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32575,"Burbank, CA",BUR,91
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30849,"Bozeman, MT",BZN,84
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33316,"Omaha, NE",OMA,65
+33316,"Omaha, NE",OMA,65
+30559,"Seattle, WA",SEA,93
+30325,"Denver, CO",DEN,82
+33214,"San Antonio, TX",SAT,74
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33192,"Sacramento, CA",SMF,91
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31703,"New York, NY",JFK,22
+30325,"Denver, CO",DEN,82
+31453,"Houston, TX",IAH,74
+30852,"Washington, DC",IAD,38
+31454,"Orlando, FL",MCO,33
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32467,"Miami, FL",MIA,33
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+34100,"Philadelphia, PA",PHL,23
+34057,"Portland, OR",PDX,92
+30325,"Denver, CO",DEN,82
+32575,"Los Angeles, CA",LAX,91
+30325,"Denver, CO",DEN,82
+30466,"Phoenix, AZ",PHX,81
+30721,"Boston, MA",BOS,13
+33195,"Tampa, FL",TPA,33
+31650,"Minneapolis, MN",MSP,63
+30325,"Denver, CO",DEN,82
+30852,"Washington, DC",DCA,38
+30325,"Denver, CO",DEN,82
+30194,"Dallas/Fort Worth, TX",DFW,74
+34614,"Salt Lake City, UT",SLC,87
+32457,"San Jose, CA",SJC,91
+30325,"Denver, CO",DEN,82
+32575,"Santa Ana, CA",SNA,91
+30325,"Denver, CO",DEN,82
+30189,"Colorado Springs, CO",COS,82
+34614,"Salt Lake City, UT",SLC,87
+30325,"Denver, CO",DEN,82
+32337,"Indianapolis, IN",IND,42
+34614,"Salt Lake City, UT",SLC,87
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33570,"San Diego, CA",SAN,91
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33570,"San Diego, CA",SAN,91
+30325,"Denver, CO",DEN,82
+33342,"Milwaukee, WI",MKE,45
+31295,"Detroit, MI",DTW,43
+31454,"Orlando, FL",MCO,33
+30466,"Phoenix, AZ",PHX,81
+34057,"Portland, OR",PDX,92
+30194,"Dallas/Fort Worth, TX",DFW,74
+32457,"Oakland, CA",OAK,91
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32575,"Santa Ana, CA",SNA,91
+30325,"Denver, CO",DEN,82
+30423,"Austin, TX",AUS,74
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+33192,"Sacramento, CA",SMF,91
+30325,"Denver, CO",DEN,82
+32211,"Las Vegas, NV",LAS,85
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+32211,"Las Vegas, NV",LAS,85
+32457,"San Francisco, CA",SFO,91
+30397,"Atlanta, GA",ATL,34
+31454,"Orlando, FL",MCO,33
+30693,"Nashville, TN",BNA,54
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31650,"Minneapolis, MN",MSP,63
+30325,"Denver, CO",DEN,82
+30721,"Boston, MA",BOS,13
+34057,"Portland, OR",PDX,92
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30559,"Seattle, WA",SEA,93
+30325,"Denver, CO",DEN,82
+30559,"Seattle, WA",SEA,93
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31123,"St. Louis, MO",STL,64
+30325,"Denver, CO",DEN,82
+34614,"Salt Lake City, UT",SLC,87
+30977,"Chicago, IL",ORD,41
+30852,"Baltimore, MD",BWI,35
+30325,"Denver, CO",DEN,82
+31453,"Houston, TX",HOU,74
+33198,"Kansas City, MO",MCI,64
+30325,"Denver, CO",DEN,82
+33570,"San Diego, CA",SAN,91
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30194,"Dallas, TX",DAL,74
+30325,"Denver, CO",DEN,82
+31650,"Minneapolis, MN",MSP,63
+30559,"Seattle, WA",SEA,93
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+31057,"Charlotte, NC",CLT,36
+30325,"Denver, CO",DEN,82
+31703,"New York, NY",LGA,22
+32575,"Los Angeles, CA",LAX,91
+30325,"Denver, CO",DEN,82
+32211,"Las Vegas, NV",LAS,85
+30325,"Denver, CO",DEN,82
+30852,"Washington, DC",IAD,38
+30325,"Denver, CO",DEN,82
+32575,"Los Angeles, CA",LAX,91
+30325,"Denver, CO",DEN,82
+30977,"Chicago, IL",MDW,41
+30397,"Atlanta, GA",ATL,34
+30325,"Denver, CO",DEN,82
+30466,"Phoenix, AZ",PHX,81
+30325,"Denver, CO",DEN,82
+31703,"Newark, NJ",EWR,21
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30194,"Dallas/Fort Worth, TX",DFW,74
+31453,"Houston, TX",IAH,74
+30325,"Denver, CO",DEN,82
+30325,"Denver, CO",DEN,82
+30977,"Chicago, IL",ORD,41
+30325,"Denver, CO",DEN,82
+32457,"San Francisco, CA",SFO,91
+30325,"Denver, CO",DEN,82

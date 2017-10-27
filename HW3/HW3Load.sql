@@ -17,7 +17,7 @@ DROP TABLE temp_table;
 
 -- Create city table
 CREATE TABLE temp_table  AS
-    SELECT * FROM state
+    SELECT * FROM city
         WITH NO DATA;
 
 \COPY temp_table FROM './city.csv' WITH CSV HEADER DELIMITER AS ',';
@@ -61,5 +61,6 @@ DROP TABLE temp_table;
 \COPY flight_time(year, quarter, month) FROM './time.csv' WITH CSV HEADER DELIMITER AS ',';
 
 -- Flight table creation.
-\COPY flight(distance, distance_group, distance_class, origin_airport_id, destination_airport_id) FROM './flight.csv' WITH CSV HEADER DELIMITER AS ','
+\COPY flight(distance, distance_group, distance_class, origin_airport_id, destination_airport_id) FROM './flight.csv' WITH CSV HEADER DELIMITER AS ',';
+COMMIT;
 

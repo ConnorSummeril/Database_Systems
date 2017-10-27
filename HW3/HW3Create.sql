@@ -1,5 +1,13 @@
 BEGIN;
 
+DROP TABLE flight;
+DROP TABLE airport;
+DROP TABLE state;
+DROP TABLE city;
+DROP TABLE carrier;
+DROP TABLE cargo;
+DROP TABLE flight_time;
+
 CREATE TABLE state(
     fips VARCHAR PRIMARY KEY,
     abbreviation VARCHAR,
