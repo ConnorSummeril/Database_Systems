@@ -1,12 +1,3 @@
-DROP TABLE flight;
-DROP TABLE booking;
-DROP TABLE city;
-DROP TABLE airline;
-DROP TABLE customer_phone_numbers;
-DROP TABLE phone_number;
-DROP TABLE customer;
-DROP TABLE mailing_address;
-
 CREATE TABLE mailing_address (
     id SERIAL PRIMARY KEY,
     street VARCHAR,
