@@ -1,0 +1,5 @@
+The phone number should be 10 digits.
+ It was actually 7 digits.
+The phone number was not an integer. It was asldkjf
+There was no "@" symbol in the email address.
+The postal code should be 5digits. It was actually 7 digits.
