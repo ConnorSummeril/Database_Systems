@@ -1,0 +1,7 @@
+C:\aaaHome\Education\PrinciplesOfDatabaseSystems\HW7>psql -U postgres -f jsonLoad.sql
+COPY 24
+
+C:\aaaHome\Education\PrinciplesOfDatabaseSystems\HW7>mongoimport --db admin --collection flight_data --drop --file C:\aaaHome\Education\PrinciplesOfDatabaseSystems\HW7\HW7.json
+2017-11-16T23:18:12.703-0700    connected to: localhost
+2017-11-16T23:18:12.704-0700    dropping: admin.flight_data
+2017-11-16T23:18:12.909-0700    imported 24 documents
