@@ -39,7 +39,7 @@ CREATE TABLE carrier(
     );
 
 CREATE TABLE cargo(
-    cargo_id SERIAL PRIMARY KEY,
+    cargo_id VARCHAR PRIMARY KEY,
     passengers VARCHAR,
     freight VARCHAR,
     mail VARCHAR
@@ -58,7 +58,8 @@ CREATE TABLE flight(
     distance_group VARCHAR,
     distance_class VARCHAR,
     origin_airport_id VARCHAR REFERENCES airport(airport_seq_id),
-    destination_airport_id VARCHAR REFERENCES airport(airport_seq_id)
+    destination_airport_id VARCHAR REFERENCES airport(airport_seq_id),
+    cargo_id VARCHAR REFERENCES cargo(cargo_id)
     );
 
 COMMIT;

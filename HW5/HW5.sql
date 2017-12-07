@@ -1,11 +1,17 @@
+DROP TABLE flight;
+DROP TABLE booking;
+DROP TABLE airline;
+DROP TABLE city;
+DROP TABLE customer_phone_numbers;
+DROP TABLE customer;
+DROP TABLE mailing_address;
+DROP TABLE phone_number;
+
 CREATE TABLE mailing_address (
     id SERIAL PRIMARY KEY,
     street VARCHAR,
     city VARCHAR,
-    province VARCHAR,
-    state VARCHAR,
-    CHECK ((state IS NOT NULL AND province is NULL)
-          OR (province IS NOT NULL AND state is NULL)),
+    province_state VARCHAR,
     postal_code VARCHAR,
     country_code VARCHAR
 );
@@ -31,7 +37,7 @@ CREATE TABLE customer_phone_numbers(
 );
 
 CREATE TABLE city(
-    id INT PRIMARY KEY,
+    id SERIAL PRIMARY KEY,
     name VARCHAR
 );
 
@@ -47,7 +53,7 @@ CREATE TABLE booking(
 );
 
 CREATE TABLE flight(
-    unique_flight_number BIGINT PRIMARY KEY,
+    unique_flight_number SERIAL PRIMARY KEY,
     flight_origin_code INT REFERENCES city(id),
     flight_destination_code INT REFERENCES city(id),
     airline_code CHAR(3) REFERENCES airline(code),

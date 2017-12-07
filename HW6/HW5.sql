@@ -11,10 +11,7 @@ CREATE TABLE mailing_address (
     id SERIAL PRIMARY KEY,
     street VARCHAR,
     city VARCHAR,
-    province VARCHAR,
-    state VARCHAR,
-    CHECK ((state IS NOT NULL AND province is NULL)
-          OR (province IS NOT NULL AND state is NULL)),
+    province_state VARCHAR,
     postal_code VARCHAR,
     country_code VARCHAR
 );
